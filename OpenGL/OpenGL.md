@@ -69,8 +69,8 @@ QGLWidget与QOpenGLWidget的区别:
 
 
 
-### QOpenGLWidget。
-
+### QOpenGLWidget
+有了他就不需要用GLFW
 
 QOpenGLWidget提供了三个便捷的虚函数，可以重载，用来重新实现典型的OpenGL任务:     
  
@@ -87,6 +87,7 @@ QOpenGLWidget提供了三个便捷的虚函数，可以重载，用来重新实�
 ### QOpenGLFunctions_X_X_Core
 
 QOpenGLFunctions_X_X_Core提供OpenGL X.X版本核心模式的所有功能，是对OpenGL函数的封装。
+有了它就不需要用GLAD
 
 其中的initializeOpenGLFunctions用于初始化OpenGL函数，将Qt里的函数指针指向显卡的函数，之后调用的OpenGL函数才是可用的。
 
