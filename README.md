@@ -39,8 +39,9 @@ C/C++学习笔记
     - [5.Qt IO流][35]
     - [6.Qt线程][36]
 - [linux][4]  
-    - [shell][41]
-    - [动态库][42]  
+    - [1.动态库][41]
+    - [2.系统函数调用][42]  
+    - [3.进程间通信][43]
 
 
 
@@ -72,8 +73,9 @@ C/C++学习笔记
 [35]: https://github.com/CharonChui/CPPStudyNote/blob/main/Qt/5.Qt%20IO%E6%B5%81.md "5.Qt IO流"
 [36]: https://github.com/CharonChui/CPPStudyNote/blob/main/Qt/6.Qt%E7%BA%BF%E7%A8%8B.md "6.Qt线程"
 [4]: https://github.com/CharonChui/CPPStudyNote/tree/main/linux "linux"
-[41]: https://github.com/CharonChui/CPPStudyNote/blob/main/linux/shell.md "shell"
-[42]: https://github.com/CharonChui/CPPStudyNote/blob/main/linux/%E5%8A%A8%E6%80%81%E5%BA%93.md "动态库"
+[41]: https://github.com/CharonChui/CPPStudyNote/blob/main/linux/1.%E5%8A%A8%E6%80%81%E5%BA%93.md "动态库"
+[42]: https://github.com/CharonChui/CPPStudyNote/blob/main/linux/2.%E7%B3%BB%E7%BB%9F%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8.md "系统函数调用"
+[43]: https://github.com/CharonChui/CPPStudyNote/blob/main/linux/3.%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1.md "进程间通信"
 
 
 Developed By
